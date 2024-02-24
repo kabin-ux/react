@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  margin-top: 5rem;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column; 
+  padding: 70px 9px;
+}
+
+h1{
+  
+}
+
+.weight{
+  font-size: 20px;
+  margin: 13px 0px;
+
+}
+
+.height{
+  font-size: 20px;
+
+  margin: 13px 0px;
+
+}
+
+.result{
+  font-size: 20px;
+
+  margin: 13px 0px;
+
+}
